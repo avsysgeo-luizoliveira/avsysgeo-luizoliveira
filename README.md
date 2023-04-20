@@ -33,7 +33,7 @@
     <b>Hobbys:</b> Desenhar, Assistir animes , Ler
     </li>
     <li>
-    <b>Trabalho:</b> Criando Jogos,Web Designer,WordPress Developer
+    <b>Trabalho:</b> Desenvolvedor(AVSystemGEO), Criando Jogos, Web Designer, WordPress Developer
     </li>
     <br>
 </div>
